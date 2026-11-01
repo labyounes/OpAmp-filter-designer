@@ -16,7 +16,7 @@ with a live circuit diagram, Bode plot and Vin/Vout time plot.
 Requires Python 3.9+ ([python.org](https://www.python.org/downloads/), tick "Add python.exe to PATH").
 
 ```bash
-git clone https://github.com/<your-user>/opamp-lab.git
+git clone https://github.com/labyounes/OpAmp-filter-designer
 cd opamp-lab
 pip install -r requirements.txt
 python main.py
